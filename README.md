@@ -61,24 +61,6 @@ Programs that I use for design:
 </br>
 -->
 
-<h2>
-Some of the projects that I'm working on:
-</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Password-Generator&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Password-Generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Dice-Roller&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Dice-Roller)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=UnityGame&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/UnityGame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=EveryString&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/EveryString)
-</br>
-
-<h2>
-Music!!!
-</h2>
-
-<!--
-**victorVDdantas/victorVDdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
