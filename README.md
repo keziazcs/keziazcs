@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kezia+Carneiro;Brazilian+Developer&font=Space+Mono&color=d096ff&size=32&height=44&width=650)](https://git.io/typing-svg)
 </div>
 <div style="font-weight: ;font-size: 16px">
-<li>Working on two web applications and a drink machine</li>
+<li>Working on one web applications and a drink machine</li>
 <li>I'm 18 and live in Salvador, Bahia</li>
 </div>
 
@@ -11,7 +11,6 @@
 
 ## My social accounts:
 <div style="margin: 0px; padding: 0px; display: flex">
-    <a href="https://www.reddit.com/user/victor_vd_/"><img align="center" alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
 </div>
 <div style="margin: 0px; padding: 0px; display: flex">
     <a href="mailto:keziasilvaest@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
