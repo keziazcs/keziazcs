@@ -1,6 +1,6 @@
 <div>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kezia+Silva;Brazilian+Developer&font=Space+Mono&color=d096ff&size=32&height=44&width=650)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kezia+Carneiro;Brazilian+Developer&font=Space+Mono&color=d096ff&size=32&height=44&width=650)](https://git.io/typing-svg)
 </div>
 <div style="font-weight: ;font-size: 16px">
 <li>Working on two web applications and a drink machine</li>
@@ -12,11 +12,9 @@
 ## My social accounts:
 <div style="margin: 0px; padding: 0px; display: flex">
     <a href="https://www.reddit.com/user/victor_vd_/"><img align="center" alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/26356605/victor-dantas"><img align="center" alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-    <a href="https://open.spotify.com/user/p269050pbp0f2urpcqvsm24i1"><img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 <div style="margin: 0px; padding: 0px; display: flex">
-    <a href="mailto:victorsdd80@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:keziasilvaest@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="(https://www.instagram.com/kecarsi/#)"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/victor-dias-dantas"><img align="center" alt=LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
