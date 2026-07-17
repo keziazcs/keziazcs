@@ -10,14 +10,11 @@
 
 ---
 
-## 💜 About Me
+##  About Me
 
-- 🎓 Software Engineering student
-- 🇧🇷 Brazilian Developer from Salvador - BA
-- 💻 Passionate about Backend Development
-- ☕ Currently building Web Applications and an Automated Drink Machine
-- 🌱 Learning Spring Boot, PostgreSQL and REST APIs
-- 🚀 Looking for opportunities to grow as a Software Developer
+Aspiring Software Developer | Skilled in Java, Python, SQL | Focused on System Development and Problem-Solving
+
+My professional interests are focused on Information Technology, particularly in system development, databases, and digital solutions. I’m committed to continuous learning and always seeking practical experiences that challenge me to grow and contribute meaningfully to the tech field.
 
 ---
 
@@ -32,7 +29,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-LINK">
+<a href="https://www.linkedin.com/in/kecarsi/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -68,53 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-## 📌 Featured Projects
-
-⭐ Automated Drink Machine
-
-> Smart vending machine developed with Java.
-
-⭐ Bakery Management System
-
-> Full CRUD system using Java and PostgreSQL.
-
-⭐ QR Code Digital Menu
-
-> Responsive menu built with HTML, CSS and JavaScript.
-
----
 
 ## 📈 Contribution Graph
 
