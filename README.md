@@ -65,26 +65,4 @@ My professional interests are focused on Information Technology, particularly in
 
 ---
 
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
-
-</p>
-
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge)
-
-</p>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 </div>
