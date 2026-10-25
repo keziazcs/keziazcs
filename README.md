@@ -37,7 +37,7 @@ Estudante de Engenharia de Software na Universidade Católica do Salvador (UCSAL
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts,angular,bootstrap,git,github,vscode&perline=11" alt="Java, Python, HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap, Git, GitHub, VS Code" />
 </p>
 
-Também: SQL.
+
 
 ### Projetos
 
