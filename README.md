@@ -9,7 +9,7 @@
 
 ---
 
-Estudante de Engenharia de Software na Universidade Católica do Salvador (UCSAL), com formação técnica em Biotecnologia pelo SENAI CIMATEC. Atuo com desenvolvimento front-end e tenho interesse em inteligência artificial, inovação e melhoria de processos.
+Estudante de Engenharia de Software na Universidade Católica do Salvador (UCSAL), com formação técnica em Biotecnologia pelo SENAI CIMATEC. Atuo com desenvolvimento front-end.
 
 <table>
 <tr>
